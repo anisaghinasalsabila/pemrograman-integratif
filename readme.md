@@ -349,22 +349,36 @@ main();
 ```
 ## Tes Fungsi CRUD
 
-1. Jalankan server dengan perintah node server.js  ![Screenshot 2023-04-07 134228](https://user-images.githubusercontent.com/71119774/230563830-0f0e0fac-5bb9-40f2-aee0-84b0a655e546.png)
+1. Jalankan server dengan perintah node server.js  
+
+![Screenshot 2023-04-07 134228](https://user-images.githubusercontent.com/71119774/230563830-0f0e0fac-5bb9-40f2-aee0-84b0a655e546.png)
 
 2. Jalankan client dengan perintah node client.js, akan terlihat tampilan command-line interface (CLI) untuk melakukan Add, Get, Update, Delete, dan GetAll data 
+
 ![Screenshot 2023-04-07 134525](https://user-images.githubusercontent.com/71119774/230564021-5f6df049-8cb3-4c61-a332-36daaca317f5.png)
 
-3. Add  ![Screenshot 2023-04-07 135039](https://user-images.githubusercontent.com/71119774/230564073-9d64e0e9-1480-4bca-8d98-7d8ccdee16d6.png)
+3. Add  
+![Screenshot 2023-04-07 135039](https://user-images.githubusercontent.com/71119774/230564073-9d64e0e9-1480-4bca-8d98-7d8ccdee16d6.png)
 
-Tampilan firebase : ![Screenshot 2023-04-07 135240](https://user-images.githubusercontent.com/71119774/230564144-002097a4-82c9-4a37-9dea-5bfc49d76a7d.png)
+Tampilan firebase : 
 
-4. Get ![Screenshot 2023-04-07 140250](https://user-images.githubusercontent.com/71119774/230564242-93f53cc5-6ddf-469d-9e8a-17e69ee0b002.png)
+![Screenshot 2023-04-07 135240](https://user-images.githubusercontent.com/71119774/230564144-002097a4-82c9-4a37-9dea-5bfc49d76a7d.png)
 
-5. Update  ![Screenshot 2023-04-07 140819](https://user-images.githubusercontent.com/71119774/230564303-f8e337ab-446e-40a6-b67f-8646b2963334.png)
+4. Get 
+![Screenshot 2023-04-07 140250](https://user-images.githubusercontent.com/71119774/230564242-93f53cc5-6ddf-469d-9e8a-17e69ee0b002.png)
 
-Tampilan firebase : ![Screenshot 2023-04-07 141100](https://user-images.githubusercontent.com/71119774/230564844-384eeded-4b54-4f6d-b702-7439663f5a1d.png)
+5. Update 
+![Screenshot 2023-04-07 140819](https://user-images.githubusercontent.com/71119774/230564303-f8e337ab-446e-40a6-b67f-8646b2963334.png)
 
-6. Delete  ![Screenshot 2023-04-07 141242](https://user-images.githubusercontent.com/71119774/230564490-7be90e73-6c31-4f15-b049-70613d36c9fa.png)
-Tampilan firebase: ![Screenshot 2023-04-07 141841](https://user-images.githubusercontent.com/71119774/230564523-15553372-c7e3-422e-8a67-20d358756716.png)
+Tampilan firebase : 
 
-7. GetAll ![Screenshot 2023-04-07 142001](https://user-images.githubusercontent.com/71119774/230564573-675b2c2e-4e7d-45e6-b58b-d51868502115.png)
+![Screenshot 2023-04-07 141100](https://user-images.githubusercontent.com/71119774/230564844-384eeded-4b54-4f6d-b702-7439663f5a1d.png)
+
+6. Delete 
+![Screenshot 2023-04-07 141242](https://user-images.githubusercontent.com/71119774/230564490-7be90e73-6c31-4f15-b049-70613d36c9fa.png)
+Tampilan firebase: 
+
+![Screenshot 2023-04-07 141841](https://user-images.githubusercontent.com/71119774/230564523-15553372-c7e3-422e-8a67-20d358756716.png)
+
+7. GetAll
+![Screenshot 2023-04-07 142001](https://user-images.githubusercontent.com/71119774/230564573-675b2c2e-4e7d-45e6-b58b-d51868502115.png)
