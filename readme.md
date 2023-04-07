@@ -24,9 +24,9 @@ Pastikan sudah terinstalasi:
   Client-side code adalah kode program yang digunakan untuk membuat dan menjalankan gRPC klien, serta mengirimkan permintaan ke gRPC server.
 </ol>
 
-##1. Proto file
+## 1. Proto file
 
-`syntax = "proto3";
+` syntax = "proto3";
 
 package login;
 
@@ -67,4 +67,4 @@ repeated User users = 1;
 }
 
 
-`
+ `
