@@ -349,7 +349,7 @@ main();
 ```
 ## Tes Fungsi CRUD
 
-1. Jalankan server dengan perintah node server.js : ![Screenshot_2023-04-07_134228](/uploads/2016e04b8c2067553e73eef0148233d0/Screenshot_2023-04-07_134228.png)
+1. Jalankan server dengan perintah node server.js : ![Screenshot 2023-04-07 134228](https://user-images.githubusercontent.com/71119774/230563830-0f0e0fac-5bb9-40f2-aee0-84b0a655e546.png)
 
 2. Jalankan client dengan perintah node client.js, akan terlihat tampilan command-line interface (CLI) untuk melakukan Add, Get, Update, Delete, dan GetAll data: ![Screenshot_2023-04-07_134525](/uploads/d444151cc896721b6a4b8254fbc70f23/Screenshot_2023-04-07_134525.png)
 
