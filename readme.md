@@ -3,15 +3,15 @@
 ## Prasyarat
 Membutuhkan pengetahuan dasar tentang:
 <ul>
-  <li> Node JS <li>
-  <li> Firebase <li>
+  <li>Node JS</li>
+  <li>Firebase</li>
 </ul>
 
 ## Persiapan
 Pastikan sudah terinstalasi: 
 <ul>
-  <li> Node JS <li>
-  <li> NPM/Yarn (package manager) <li>
+  <li>Node JS</li>
+  <li>NPM/Yarn (package manager)</li>
 </ul>
 
 ## Susunan dasar pemrograman gRPC 
