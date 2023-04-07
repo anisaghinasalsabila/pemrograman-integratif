@@ -26,7 +26,8 @@ Pastikan sudah terinstalasi:
 
 ## 1. Proto file
 
-``` syntax = "proto3";
+``` 
+syntax = "proto3";
 
 package login;
 
