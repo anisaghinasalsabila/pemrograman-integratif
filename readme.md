@@ -362,7 +362,7 @@ Tampilan firebase : ![Screenshot 2023-04-07 135240](https://user-images.githubus
 
 5. Update  ![Screenshot 2023-04-07 140819](https://user-images.githubusercontent.com/71119774/230564303-f8e337ab-446e-40a6-b67f-8646b2963334.png)
 
-Tampilan firebase : ![Screenshot 2023-04-07 141100](https://user-images.githubusercontent.com/71119774/230564386-f99b53a3-84d1-420d-93d1-e5a5653eab48.png
+Tampilan firebase : ![Screenshot 2023-04-07 141100](https://user-images.githubusercontent.com/71119774/230564844-384eeded-4b54-4f6d-b702-7439663f5a1d.png)
 
 6. Delete  ![Screenshot 2023-04-07 141242](https://user-images.githubusercontent.com/71119774/230564490-7be90e73-6c31-4f15-b049-70613d36c9fa.png)
 Tampilan firebase: ![Screenshot 2023-04-07 141841](https://user-images.githubusercontent.com/71119774/230564523-15553372-c7e3-422e-8a67-20d358756716.png)
