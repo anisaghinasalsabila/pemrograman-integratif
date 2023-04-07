@@ -349,22 +349,32 @@ main();
 ```
 ## Tes Fungsi CRUD
 1. Jalankan server dengan perintah node server.js
+
 ![Screenshot_2023-04-07_134228](/uploads/2016e04b8c2067553e73eef0148233d0/Screenshot_2023-04-07_134228.png)
 2. Jalankan client dengan perintah node client.js, akan terlihat tampilan command-line interface (CLI) untuk melakukan Add, Get, Update, Delete, dan GetAll data
+
 ![Screenshot_2023-04-07_134525](/uploads/d444151cc896721b6a4b8254fbc70f23/Screenshot_2023-04-07_134525.png)
 3. Add
+
 ![Screenshot_2023-04-07_135039](/uploads/7ca582c3d9c2cde2ca7a508a3c8932a5/Screenshot_2023-04-07_135039.png)
 Tampilan firebase :
+
 ![Screenshot_2023-04-07_135240](/uploads/7c28e7f40900a893cf11261a64dfdb6c/Screenshot_2023-04-07_135240.png)
 4. Get
+
 ![Screenshot_2023-04-07_140250](/uploads/6cfa58b7fe513fb8165e634bfd3546cc/Screenshot_2023-04-07_140250.png)
 5. Update 
+
 ![Screenshot_2023-04-07_140819](/uploads/7ab06eaff41aa770493a263a7cd6bc8e/Screenshot_2023-04-07_140819.png)
 Tampilan firebase :
+
 ![Screenshot_2023-04-07_141100](/uploads/36ef96d2bfae339775bd725c557cfa9d/Screenshot_2023-04-07_141100.png)
 6. Delete
+
 ![Screenshot_2023-04-07_141242](/uploads/39719429f9335146a298932b5555c972/Screenshot_2023-04-07_141242.png)
 Tampilan firebase:
+
 ![Screenshot_2023-04-07_141841](/uploads/4483eecefc1a3a82614b2c63bcbeaff8/Screenshot_2023-04-07_141841.png)
 7. GetAll
+
 ![Screenshot_2023-04-07_142001](/uploads/0b11a45243a660d7cd29f5c195f2560c/Screenshot_2023-04-07_142001.png)
