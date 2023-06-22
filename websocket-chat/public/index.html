@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Ruang Obrolan</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="style.css" />
+	<script>
+		var name = prompt("Masukkan Nama Anda");
+	</script>
+</head>
+
+<body>
+	<header>
+		<div id="intro">
+			<h1>Selamat Datang, <span id="user-name"></span>!</h1>
+			<p>Ini adalah ruang obrolan sederhana.</p>
+		</div>
+	</header>
+
+	<main>
+		<ul id="messages"></ul>
+	</main>
+
+	<footer>
+		<form action="">
+			<input id="m" placeholder="Ketikkan pesanmu..." autocomplete="off" required /><button>Send</button>
+		</form>
+	</footer>
+
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<!-- Include script js  -->
+	<script src="script.js"></script>
+	<script>
+		document.getElementById('user-name').innerText = name;
+	</script>
+</body>
+
+</html>
